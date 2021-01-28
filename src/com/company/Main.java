@@ -12,7 +12,7 @@ public class Main {
         SUN troyo=new SUN();
         troyo.heat="64163k";
         troyo.temperature=268461;
-        troyo.radius="sa6631";
-        
+        troyo.radius="6631km";
+
     }
 }
